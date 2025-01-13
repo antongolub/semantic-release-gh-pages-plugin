@@ -52,7 +52,7 @@
     "git-url-parse": "^16.0.0",
     "lodash": "^4.17.21",
     "queuefy": "^1.2.1",
-    "read-pkg": "^5.2.0",
+    "read-pkg": "^9.0.0",
     "then-request": "^6.0.2",
     "tslib": "^2.8.1",
     "zurk": "^0.10.0"
